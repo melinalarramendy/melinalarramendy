@@ -27,6 +27,7 @@
 - [🔐 Sistema de login con Python flask](https://github.com/melinalarramendy/sistema-login-flask)
 - [🔐 Sistema de login con MERN Stack](https://github.com/melinalarramendy/sistema-login)
 - [✅ Gestor de tareas con MERN Stack](https://github.com/melinalarramendy/taskManager)
+- [🛒Tienda generica](https://github.com/melinalarramendy/tiendaGenerica)
 
 ---
 
