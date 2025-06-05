@@ -9,8 +9,7 @@
 - **Lenguajes:** Java (Spring Boot), PHP, JavaScript, Python, SQL
 - **Frameworks y Librerías:** React, Flask, FastAPI, Bootstrap
 - **Bases de datos:** MySQL, PostgreSQL, MongoDB
-- **Herramientas y Otros:** Git, GitHub, Postman, Figma, Jira
-
+- **Herramientas y Otros:** Git, GitHub, Postman, Figma, Trello
 ---
 
 ## 🌱 En aprendizaje continuo
@@ -27,7 +26,7 @@
 - [🔐 Sistema de login con Python flask](https://github.com/melinalarramendy/sistema-login-flask)
 - [🔐 Sistema de login con MERN Stack](https://github.com/melinalarramendy/sistema-login)
 - [✅ Gestor de tareas con MERN Stack](https://github.com/melinalarramendy/taskManager)
-- [🛒Tienda generica](https://github.com/melinalarramendy/tiendaGenerica)
+- [🛒 Tienda generica - Python flask](https://github.com/melinalarramendy/tiendaGenerica)
 
 ---
 
