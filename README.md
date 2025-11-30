@@ -1,37 +1,48 @@
-# 💻 Melina - Full Stack Developer Junior
-
-¡Hola! Soy Melina, Desarrolladora Full Stack Junior con formación técnica en análisis de sistemas y experiencia académica y autodidacta en desarrollo web. Me apasiona la tecnología y busco constantemente aprender y mejorar mis habilidades para aportar valor en proyectos reales del mundo IT.
-
----
-
-## 🛠️ Tecnologías y herramientas
-
-- **Lenguajes:** Java (Spring Boot), PHP, JavaScript, Python, SQL
-- **Frameworks y Librerías:** React, Flask, FastAPI, Bootstrap
-- **Bases de datos:** MySQL, PostgreSQL, MongoDB
-- **Herramientas y Otros:** Git, GitHub, Postman, Figma, Trello
----
-
-## 🌱 En aprendizaje continuo
-
-📚 Actualmente estoy por empezar a cursar la Licenciatura en ciencia de datos en UniCABA.  
-🔧 Desarrollo proyectos propios y colaborativos para seguir mejorando mis habilidades técnicas y metodológicas.  
-🎯 Mi objetivo es crecer profesionalmente en el área del desarrollo, combinando backend, frontend y análisis funcional.
+# Melina Larramendy  
+**Data Analyst Jr | Técnica en Análisis de Sistemas | Ciencia de Datos**
 
 ---
 
-## 📁 Repositorios destacados
-
-- [👩‍💻​ Porfolio](https://github.com/melinalarramendy/porfolio)
-- [🔐 Sistema de login con Python flask](https://github.com/melinalarramendy/sistema-login-flask)
-- [🔐 Sistema de login con MERN Stack](https://github.com/melinalarramendy/sistema-login)
-- [✅ Gestor de tareas con MERN Stack](https://github.com/melinalarramendy/taskManager)
-- [🛒 Tienda generica - Python flask](https://github.com/melinalarramendy/tiendaGenerica)
+## Perfil Profesional  
+Técnica en Análisis de Sistemas y estudiante de Ciencia de Datos, con formación sólida en Python, SQL, análisis exploratorio, ETL básico y visualización.  
+Experiencia en proyectos prácticos aplicados a análisis, dashboards, scraping y modelos predictivos simples.  
+Busco mi primera oportunidad profesional en Data/IT.
 
 ---
 
-## 📫 ¿Querés contactarme?
-
-Podés escribirme por [LinkedIn](https://linkedin.com/in/melina-larramendy-60340522b) o a mi correo: melinalarramendy@gmail.com
+## Skills Técnicos  
+- **Python:** Pandas, Numpy, Scikit-Learn  
+- **SQL:** PostgreSQL, MySQL (JOINS, CTEs)  
+- **Data:** EDA, ETL, limpieza, normalización  
+- **Visualización:** Power BI, Excel  
+- **Desarrollo:** JavaScript, React, PHP  
+- **Herramientas:** Git, GitHub, Postman
 
 ---
+
+## Proyectos Relevantes  
+- **EDA + Dashboard** (Python, Power BI)  
+- **Modelo Predictivo** (ML básico)  
+- **Pipeline ETL** (API → Transformación → SQL)  
+- **SQL Avanzado** (consultas complejas)  
+- **Web Scraping + Análisis** (Python)
+
+*(Repositorios en construcción, cada proyecto con README técnico, scripts y notebooks.)*
+
+---
+
+## Formación  
+- Licenciatura en Ciencia de Datos – En curso  
+- Técnica Superior en Análisis de Sistemas – 2024  
+
+---
+
+## Idiomas  
+Inglés (Intermedio) · Chino Mandarín (Básico)
+
+---
+
+## Contacto  
+Email: **melinalarramendy@gmail.com**  
+LinkedIn: **linkedin.com/in/melina-larramendy-60340522b**  
+GitHub: **github.com/melinalarramendy**
